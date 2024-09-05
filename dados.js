@@ -1,17 +1,17 @@
 const dados = [
-        {
-        titulo: "Real Madrid",
-        descricao: "O Real Madrid é um dos clubes de futebol mais prestigiados e condecorados do mundo, com uma história rica e uma legião de torcedores apaixonados. Fundado em 1902, o clube espanhol conquistou inúmeros títulos nacionais e internacionais, incluindo um recorde de 14 títulos da Liga dos Campeões da UEFA. Sua rivalidade com o Barcelona é uma das maiores do esporte, e o Real Madrid é conhecido por seus jogadores talentosos e sua paixão por vencer. Com um passado glorioso e um futuro promissor, o Real Madrid continua sendo um dos maiores ícones do futebol mundial.",
-        link: "https://pt.wikipedia.org/wiki/Real_Madrid_Club_de_F%C3%BAtbol"
-        },
-        {
-        titulo: "Barcelona",
-        descricao: "O Barcelona é outro gigante do futebol espanhol, conhecido por seu estilo de jogo ofensivo e sua base de jovens talentos da La Masia. Com uma história rica e uma legião de torcedores apaixonados, o clube catalão conquistou inúmeros títulos nacionais e internacionais, incluindo diversas edições da Liga dos Campeões da UEFA. A rivalidade com o Real Madrid é uma das maiores do esporte, e o Barcelona é admirado por seu jogo bonito e sua filosofia de formação de jogadores.",
-        link: "https://pt.wikipedia.org/wiki/Futbol_Club_Barcelona"    
-        },
-        {
-        titulo: "Tênis",
-        descricao:"O tênis é um esporte individual ou em duplas que envolve o uso de raquetes para bater em uma bola sobre uma rede. É um esporte praticado em todos os continentes e possui uma longa história. Os principais torneios de tênis são os Grand Slams: Australian Open, Roland-Garros, Wimbledon e US Open.",
-        link:"https://pt.wikipedia.org/wiki/T%C3%A9nis",
-        }
+            {
+            titulo: "Martin Luther King Jr.",
+            descricao: "Martin Luther King Jr. foi um pastor protestante e ativista afro-americano que emergiu como o principal líder do movimento pelos direitos civis nos Estados Unidos nos anos 1950 e 1960. Através de sua pregação não violenta e de sua capacidade de mobilizar multidões, King liderou campanhas icônicas, como o boicote aos ônibus em Montgomery e a marcha em Washington, onde proferiu seu famoso discurso 'I Have a Dream'. Seu assassinato em 1968 chocou o mundo e solidificou seu lugar na história como um ícone da luta pela igualdade racial.",
+            link: "https://pt.wikipedia.org/wiki/Martin_Luther_King_Jr."
+            },
+            {
+            titulo: "Malcom X",
+            descricao: "Malcolm X foi um ativista afro-americano que se tornou uma das vozes mais influentes do movimento pelos direitos civis nos Estados Unidos. Nascido como Malcolm Little, ele adotou o nome Malcom X após se converter ao Islã. Conhecido por suas posições radicais e discursos inflamados, Malcom X defendia a autodeterminação dos afro-americanos e a separação racial. Sua vida e legado continuam a inspirar debates sobre raça, identidade e justiça social.",
+            link: "https://pt.wikipedia.org/wiki/Malcolm_X"
+            },
+            {
+            titulo: "George Floyd",
+            descricao: "George Floyd foi um homem afro-americano cuja morte durante uma prisão em Minneapolis, Minnesota, em 2020, desencadeou protestos globais contra a brutalidade policial e o racismo sistêmico. A morte de Floyd, capturada em vídeo, mostrou um policial branco pressionando seu joelho no pescoço de Floyd por vários minutos, apesar dos pedidos do homem para respirar. O caso de Floyd se tornou um catalisador para o movimento Black Lives Matter e reavivou o debate sobre a justiça racial nos Estados Unidos.",
+            link: "https://pt.wikipedia.org/wiki/George_Floyd"
+            }
     ]

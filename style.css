@@ -4,7 +4,6 @@
 /* Estiliza o corpo da página */
 body {
     font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
-    background-color: #6df17f; /* Cor de fundo da página */
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
@@ -12,17 +11,16 @@ body {
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
-    background-image: url('Gemini_Background.jpeg');
+    background-image: url(LT.jpeg);
     background-position: center center;
     background-size: cover;
-    /*overflow-y: auto;*/
-    flex-grow: 1;
+    overflow-y: auto;
 }
 
 /* Estiliza os títulos h1 */
 h1 {
     font-size: 2.5rem; /* Tamanho da fonte */
-    color: #222831; /* Cor do texto */
+    color:#000000; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
@@ -70,7 +68,7 @@ section button:hover {
 .resultados-pesquisa {
     width: 60rem; /* Largura máxima da caixa de resultados */
     height: 40vh; /* Altura máxima da caixa de resultados */
-    /*overflow-y: auto;*/ /* Adiciona rolagem vertical se necessário */
+    overflow-y: auto; /* Adiciona rolagem vertical se necessário */
     margin-top: 1rem; /* Espaçamento acima da caixa de resultados */
     padding: 1rem; /* Espaçamento interno */
     border-radius: 0.6rem; /* Borda arredondada */
@@ -112,13 +110,14 @@ section button:hover {
 
 /* Estiliza o rodapé da página */
 footer {
+    background-color: #000000;
     color: #ffffff; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     padding: 0; /* Espaçamento interno */
     width: 100%; /* Largura total da página */
     position: absolute; /* Posiciona o rodapé */
     bottom: 0; /* Alinha ao fundo da página */
-    font-size: 1rem; /* Tamanho da fonte */
+    font-size: 0.7rem; /* Tamanho da fonte */
 
 }
 
