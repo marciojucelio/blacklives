@@ -27,6 +27,12 @@ h1 {
 h2 {
     text-align: center; /* Alinha o texto ao centro */
 }
+h4 {
+    color:#000000;
+    background-color: #ffffff;
+    border-radius: 1.5rem;
+    padding: 0.5rem;
+}
 /* Estiliza as seções da página */
 section {
     display: flex; /* Usa Flexbox para layout */
